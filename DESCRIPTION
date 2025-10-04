@@ -1,9 +1,9 @@
 Package: GenoEnrich
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Genomic Region Enrichment Analysis Toolkit
+Version: 1.0.0
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Haozhe", "Zhu", , "haozhe_zhu@163.com", role = c("aut", "cre"))
+Description: A toolkit for enrichment analysis of genomic regions against chromatin states.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
